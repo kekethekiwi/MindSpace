@@ -1,6 +1,7 @@
-![mindspace](https://github.com/kekethekiwi/MindSpace/assets/89766733/2f1eb0f4-5333-4c5e-99dc-08e26c6c9be4)# MindSpace
+# MindSpace
 AR Therapy Readiness Experience
 
+![Mobile View of MindSpace Demo](Images/Screenshot_20240102_164709_Samsung Internet.jpg)
 ![Screenshot_20240102_164709_Samsung Internet](https://github.com/kekethekiwi/MindSpace/assets/89766733/1db3ff4f-a5f2-46df-874e-0646be95652d)
 [Try the AR experience:8th.io/kax5p](8th.io/kax5p) 
 or scan on phone:
